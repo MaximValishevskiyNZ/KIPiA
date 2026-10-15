@@ -1,0 +1,21 @@
+name: Новая техкарта
+description: Добавить прибор или прикладную задачу
+title: "[Техкарта] "
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Модель и производитель
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: Где применяется и что нужно объяснить
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Официальная документация и известное исполнение
+      description: Неизвестные поля можно прямо отметить.

@@ -1,0 +1,62 @@
+{
+  "accessed": "2026-10-15",
+  "note": "Official Endress+Hauser PDF editions read for this guide; latest applicability must be checked by serial number.",
+  "documents": [
+    {
+      "source_id": "T1",
+      "document": "BA00387FEN_1414",
+      "url": "https://bdih-download.endress.com/file/047d76316a58f3a6d14971bdcd32d4f9/BA00387FEN_1414.pdf",
+      "sha256": "274becaf52a499e8ddbc2fbc3af8f2fe7e6081d54af12814474705199b494ac4",
+      "bytes": 3126486
+    },
+    {
+      "source_id": "T2",
+      "document": "BA00388FEN_1414",
+      "url": "https://bdih-download.endress.com/file/afb21e2d723db02e4af9fdcb19044025/BA00388FEN_1414.pdf",
+      "sha256": "90d1c5d4e35838d9494654ceb9c6b2d55a0c4d79f7f227a7c092b72254684d02",
+      "bytes": 3315713
+    },
+    {
+      "source_id": "M2",
+      "document": "BA00240FEN_1312",
+      "url": "https://bdih-download.endress.com/file/211c6a2cc671e2c2aeabeb1970cfd9a2/BA00240FEN_1312.pdf",
+      "sha256": "a0748f88315302b82504874b6209a6179bfcfd5fc5886a8154842d6ee57e4ca1",
+      "bytes": 1581175
+    },
+    {
+      "source_id": "S1",
+      "document": "BA00288FEN_1621",
+      "url": "https://bdih-download.endress.com/files/DLA/005056A500261EDBB2850E6C9D3B8FE4/BA00288FEN_1621.pdf",
+      "sha256": "373f6bf1d6ea0d39dc10f6b83416fe471053da620b4e2bf277596170ef129917",
+      "bytes": 3407882
+    },
+    {
+      "source_id": "M3",
+      "document": "TI00365FEN_1714",
+      "url": "https://bdih-download.endress.com/file/4f36608c46cdfd5f1f327c110179f251/TI00365FEN_1714.pdf",
+      "sha256": "b456d99cf55aaa0b3d93acc8d0fe9d8f5ad62f2059551aae4b543b9072f67f23",
+      "bytes": 3302451
+    },
+    {
+      "source_id": "T3",
+      "document": "TI00440FEN_1514",
+      "url": "https://bdih-download.endress.com/file/417001e5ccae4211141d2f90a7765e3b/TI00440FEN_1514.pdf",
+      "sha256": "16c38f917dd3ee9857dec1d396f2ff0cdd0b166b9cda9f459c4dc08082d3652f",
+      "bytes": 2224118
+    },
+    {
+      "source_id": "M1",
+      "document": "BA00237FEN_1312",
+      "url": "https://bdih-download.endress.com/file/5e5561d8d7226dee2b13015708055481/BA00237FEN_1312.pdf",
+      "sha256": "e62a5a25bac383a9f59cd91c79880cd5d7f4a2ac322c721cd30b3d90c7f86698",
+      "bytes": 2725753
+    },
+    {
+      "source_id": "A1",
+      "document": "SO01117U60EN0123",
+      "url": "https://www.endress.com/_storage/asset/11243675/storage/master/file/58973971/download/SO01117U60EN0123_Portfolio_Brochure_Mining_20231117_SCREEN.pdf",
+      "sha256": "fd81ac47ca4a706d403ccc344faef15c4d8ba0a9e6b46f4ecdb2e67dea31408b",
+      "bytes": 9905670
+    }
+  ]
+}

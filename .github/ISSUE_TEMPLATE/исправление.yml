@@ -1,0 +1,24 @@
+name: Исправить техкарту
+description: Ошибка в подключении, параметре, схеме или объяснении
+title: "[Исправление] "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Файл и раздел
+      description: Где находится спорное утверждение?
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что неверно и как должно быть
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Официальный источник
+      description: URL, номер документа, редакция, страница; модель и исполнение прибора.
+    validations:
+      required: true
