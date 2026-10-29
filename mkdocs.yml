@@ -1,0 +1,67 @@
+site_name: Электробезопасность | КИПиА
+site_description: Практический справочник по электробезопасности по ПУЭ, ПОТЭЭ, ПТЭЭП и ГОСТ
+site_url: https://maximvalishevskiynz.github.io/KIPiA/
+repo_url: https://github.com/MaximValishevskiyNZ/KIPiA
+repo_name: MaximValishevskiyNZ/KIPiA
+docs_dir: docs
+site_dir: site
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Тёмная тема
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Светлая тема
+plugins:
+  - search:
+      lang: ru
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+nav:
+  - Главная: index.md
+  - Как учить: 00-start.md
+  - Нормативная база: 01-regulations.md
+  - Словарь терминов: 02-glossary.md
+  - Основы электричества: 03-electricity.md
+  - Электроустановки: 04-installations.md
+  - Опасности электротока: 05-hazards.md
+  - Заземление и системы TN/TT/IT: 06-earthing.md
+  - Автоматы, УЗО, защита: 07-protection.md
+  - Персонал и группы I–V: 08-people-groups.md
+  - Наряд, распоряжение и допуск: 09-work-permits.md
+  - Технические мероприятия: 10-technical-actions.md
+  - Электрозащитные средства: 11-ppe.md
+  - Первая помощь: 12-firstaid.md
+  - Электробезопасность в КИПиА: 13-kipia.md
+  - Знаки и плакаты: 14-signs.md
+  - Билеты и ответы: 15-questions.md
+  - Чек-листы: 16-checklists.md
+  - Официальные источники: 17-sources.md
