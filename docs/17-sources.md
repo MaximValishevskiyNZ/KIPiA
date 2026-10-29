@@ -36,6 +36,20 @@
 - **XLIV:** переносной электроинструмент и светильники;
 - **Приложение № 1:** группы по электробезопасности и условия присвоения.
 
+## Прямые пункты для III группы
+
+- [ПОТЭЭ II: группа, обучение, удостоверение, специальные работы (2.3–2.11)](https://www.consultant.ru/document/cons_doc_LAW_372952/e0642a7c1a02d3a02f6604f3624ccf82bc0137a4/).
+- [Приложение № 1: требования и минимальный стаж для III группы](https://www.consultant.ru/document/cons_doc_LAW_372952/61e0f091360ef276b216e99b00e4449169246c5c/).
+- [ПОТЭЭ III: оперативное обслуживание и осмотры](https://www.consultant.ru/document/cons_doc_LAW_372952/8c4c95fbc2ea4aeb7613d5016a1e9456233c158e/).
+- [ПОТЭЭ IV: три формы организации работ](https://www.consultant.ru/document/cons_doc_LAW_372952/0aa2ac0f7d6286f9d1f67c86dba9f50d34b2c997/).
+- [ПОТЭЭ V: организационные мероприятия и ответственные](https://www.consultant.ru/document/cons_doc_LAW_372952/5f58ca59427377b5afe409df85126cb9885ccab4/).
+- [ПОТЭЭ VI: наряд-допуск, срок действия, 6.3](https://www.consultant.ru/document/cons_doc_LAW_372952/6f3c460669836a64c9eed97ad418370b46b29758/).
+- [ПОТЭЭ VII: распоряжение](https://www.consultant.ru/document/cons_doc_LAW_372952/53a6a77ac176fa2c4038ea9f8a187be0e8d4fe31/).
+- [ПОТЭЭ VIII: текущая эксплуатация и перечень](https://www.consultant.ru/document/cons_doc_LAW_372952/f9767381cadcf3bc51d7fb9eb7e69051f4ab4703/).
+- [ПОТЭЭ XVI: техническая подготовка, 16.1–16.4](https://www.consultant.ru/document/cons_doc_LAW_372952/8f7693a6cd4335315f77bfc4797bc7c78c2c6e79/).
+- [ПОТЭЭ XLII: измерения и вторичные цепи](https://www.consultant.ru/document/cons_doc_LAW_372952/7511d177b57021cd56695a4e10d4826fb708fd13/).
+- [ПОТЭЭ XLIII: ТАИ, единоличные работы и допускающий](https://www.consultant.ru/document/cons_doc_LAW_372952/5849d10ae6a83e95c538726b025fc6c77d3be8c1/).
+
 ## Как проверить норму перед экзаменом или работой
 
 1. Найти документ по **названию, номеру и дате**.
