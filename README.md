@@ -4,6 +4,8 @@
 
 > **Проверка содержания:** [отчёт об аудите, найденных ошибках и оставшихся ограничениях](QUALITY_AUDIT.md).
 >
+> **Подготовка к III группе:** [программа](docs/22-third-group.md) · [виды работ](docs/23-types-of-work.md) · [персонал и ответственность](docs/24-personnel-and-roles.md) · [51 вопрос](docs/28-third-group-questions.md).
+>
 > **Новый раздел:** [Электробезопасность для слесаря КИПиА — учебник, словарь, 25 вопросов, первая помощь](docs/index.md). [Сайт справочника (после включения GitHub Pages)](https://maximvalishevskiynz.github.io/KIPiA/).
 
 
